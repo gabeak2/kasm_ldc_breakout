@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_Coaxial,KH-BNC50-3511,78.1,-52.785,0.0,top
+J2,Conn_Coaxial,KH-BNC50-3511,97.085714,-52.785,0.0,top
+J3,Conn_Coaxial,KH-BNC50-3511,135.057143,-52.785,0.0,top
+J4,DB25_Pins_MountingHoles,TE-5747842-4,230.242,-70.94,90.0,top
+J5,Conn_Coaxial,KH-BNC50-3511,116.071429,-52.785,0.0,top
+J6,Conn_Coaxial,KH-BNC50-3511,173.028571,-52.785,0.0,top
+J7,Conn_Coaxial,KH-BNC50-3511,154.042857,-52.785,0.0,top
+J8,Conn_Coaxial,KH-BNC50-3511,211.0,-52.785,0.0,top
+J9,Conn_Coaxial,KH-BNC50-3511,192.014286,-52.785,0.0,top
